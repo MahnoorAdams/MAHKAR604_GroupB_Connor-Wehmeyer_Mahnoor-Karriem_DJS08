@@ -69,6 +69,14 @@ header .login-link {
 
 nav {
   display: flex;
+  gap: 2rem;
+  margin-left: 1rem;
+}
+
+a.active-link {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #161616;
 }
 
 main {
@@ -105,6 +113,7 @@ footer {
   color: black;
   text-decoration: none;
   margin-left: 26px;
+  margin-top: 30px;
 }
 
 .back-button span:hover {
@@ -118,7 +127,7 @@ footer {
 /*** HOME PAGE ***/
 .home-container {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0.46)),
-      url("./assets/images/home-hero.png") no-repeat center center;
+    url("./assets/images/home-hero.png") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
