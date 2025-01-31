@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-import Home from "../pages/Home";
-import About from "../pages/About";
-import Vans from "../pages/Vans/Vans";
+import Home from "../public/pages/Home";
+import About from "../public/pages/About";
+import Vans from "../public/pages/Vans/Vans";
 import VanDetail from "../pages/Vans/VanDetail";
 import "./server";
 import Layout from "../components/Layout";
