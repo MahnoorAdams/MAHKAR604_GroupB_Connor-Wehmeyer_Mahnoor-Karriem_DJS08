@@ -6,6 +6,10 @@ https://www.loom.com/share/04233b0528f9417387e90272b8c0d647?sid=322dbd19-6c19-40
 https://www.loom.com/share/5f0ed06e0a174931a07396d1ba27d0de?sid=f33d19dd-2ed0-48d5-9e6e-a0d6caf1d3ec
 
 
+
+https://www.loom.com/share/04233b0528f9417387e90272b8c0d647?sid=322dbd19-6c19-4059-a1b0-dc7112e66a2c
+https://www.loom.com/share/5f0ed06e0a174931a07396d1ba27d0de?sid=f33d19dd-2ed0-48d5-9e6e-a0d6caf1d3ec
+
 After cloning the repo, run `npm install` to install the dependencies 
 
 Are you ready to get stuck into some React Router? For this challenge, you are required to code along with the lecturer from this lesson on Scrimba V1 [VanLife Project Bootstrapping](https://v1.scrimba.com/learn/react/introduction-to-react-router-6-coafa4877a450245212825034) or on Scrimba V2 click the link here [VanLife Project Bootstrapping](https://v2.scrimba.com/advanced-react-c02h/~02d)
